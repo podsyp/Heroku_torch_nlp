@@ -1,0 +1,12 @@
+# Моделирование
+gunicorn==19.9.0
+requests==2.22.0
+torchtext==0.6.0
+https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+
+# api
+Flask==1.1.2
+
+# Packaging
+setuptools>=41.4.0,<42.0.0
+wheel>=0.33.6,<0.34.0
